@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/drawermenu_1_camera"
+    android:title="@string/drawer_menu_item1_camera"/>
+
+<item android:id="@+id/drawermenu_2_gallery"
+    android:title="@string/drawer_menu_item2_gallery"/>
+
+<item android:id="@+id/drawermenu_3_dashboard"
+    android:title="@string/drawer_menu_item3_dashboard"/>
+
+<item android:id="@+id/drawermenu_4_event"
+    android:title="@string/drawer_menu_item4_event"/>
+
+<item android:id="@+id/drawermenu_5_search"
+    android:title="@string/drawer_menu_item5_search"/>
+
+<item android:id="@+id/drawermenu_6_setting"
+    android:title="@string/drawer_menu_item6_setting"/>
+
+<item android:id="@+id/drawermenu_7_contact"
+    android:title="@string/drawer_menu_item7_contact"/>
+
+<item android:id="@+id/drawermenu_8_logout"
+    android:title="@string/drawer_menu_item8_logout"/>
+
+</menu>

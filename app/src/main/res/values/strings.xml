@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Drawer Navigation Create</string>
+    <string name="drawer_menu_item1_camera">Camera</string>
+    <string name="drawer_menu_item2_gallery">Gallery</string>
+    <string name="drawer_menu_item3_dashboard">Dashboard</string>
+    <string name="drawer_menu_item4_event">event</string>
+    <string name="drawer_menu_item5_search">Search</string>
+    <string name="drawer_menu_item6_setting">Setting</string>
+    <string name="drawer_menu_item7_contact">Contact</string>
+    <string name="drawer_menu_item8_logout">Logout</string>
+
+    <string name="header_name">Nhat Thanh</string>
+    <string name="header_email">dpnthanh@gmail.com</string>
+
+    <string name="text_open">Open</string>
+    <string name="text_close">Close</string>
+</resources>
